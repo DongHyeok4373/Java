@@ -1,4 +1,4 @@
-package sec03.exam2;
+package sec02.exam2;
 
 public class IntegerLiteralExample {
 	public static void main(String[] args) {
